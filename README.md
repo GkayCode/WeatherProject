@@ -1,1 +1,183 @@
-`# Weather Website Project A small Node.js + EJS project that displays the weather information of the city entered into the input box. I developed this project to practice backend development and API usage. The interface design was built using **Bootstrap**, while the **backend logic was coded entirely by me**. The frontend layout was assisted by AI. 🔗 **Live Demo:** https://weather-project-lac-ten.vercel.app/ --- ## Features - Search weather by city name - Clean and responsive UI - Built with Express and EJS - Bootstrap-based design - Simple backend structure for learning purposes --- ## Technologies Used - Node.js - Express.js - EJS - Bootstrap - Nodemon --- ## Installation Clone the repository and install dependencies: ```bash npm init -y npm install express ejs nodemon ``` Start the development server: ```bash npm run dev ``` --- ## Project Structure ```text . ├── routes/ ├── views/ ├── public/ ├── app.js ├── package.json └── README.md ``` --- ## Notes - The frontend layout and styling were assisted by AI. - The backend logic and project integration were developed by me. --- ## Turkish # Şehirlerin Hava Durumunu Görüntüleyen Website Input kutusuna yazılan şehrin hava durumunu gösteren küçük bir proje geliştirdim. Bu projede arayüz tasarımı için **Bootstrap** kullandım. Frontend kısmı yapay zeka desteğiyle oluşturuldu. **Backend kısmını tamamen kendim kodladım.** 🔗 **Canlı Demo:** https://weather-project-lac-ten.vercel.app/ --- ## Özellikler - Şehir adına göre hava durumu arama - Temiz ve responsive tasarım - Express ve EJS kullanımı - Bootstrap tabanlı arayüz - Öğrenme amaçlı sade backend yapısı --- ## Kullanılan Teknolojiler - Node.js - Express.js - EJS - Bootstrap - Nodemon --- ## Kurulum Projeyi klonladıktan sonra bağımlılıkları yükleyin: ```bash npm init -y npm install express ejs nodemon ``` Geliştirme sunucusunu başlatın: ```bash npm run dev ``` --- ## Proje Yapısı ```text . ├── routes/ ├── views/ ├── public/ ├── app.js ├── package.json └── README.md ``` --- ## Notlar - Frontend tasarımı yapay zeka desteğiyle hazırlanmıştır. - Backend mantığı ve proje entegrasyonu tarafımdan geliştirilmiştir. --- Teşekkürler 🙌`
+# 🌦️ Weather Project – City Weather Website
+
+[🇹🇷 Türkçe](#-türkçe)
+
+A small weather website project that displays the current weather information of the city entered in the input field.
+
+The interface was designed using the **Bootstrap** CSS library. The **frontend design was generated with the help of AI**, while the **backend logic and functionality were coded by me**.
+
+🔗 **Live Demo:** https://weather-project-lac-ten.vercel.app/
+
+---
+
+## 🚀 Features
+
+* Search weather by city name
+* Simple and responsive UI
+* Bootstrap-based modern design
+* EJS template engine
+* Express.js backend
+* Easy local setup
+
+---
+
+## 🛠️ Technologies Used
+
+* **Node.js**
+* **Express.js**
+* **EJS**
+* **Bootstrap**
+* **Nodemon**
+
+---
+
+## 📦 Installation
+
+Clone the repository and install the dependencies:
+
+```bash
+npm init -y
+npm install express ejs nodemon
+```
+
+---
+
+## ▶️ Run the Project
+
+```bash
+npm run dev
+```
+
+Then open your browser and visit:
+
+```text
+http://localhost:3000
+```
+
+---
+
+## 📁 Project Structure
+
+```text
+weather-project/
+├── public/
+│   └── css/
+├── routes/
+├── views/
+│   └── index.ejs
+├── app.js
+├── package.json
+└── README.md
+```
+
+---
+
+## 📌 Notes
+
+* The frontend design was created with AI assistance.
+* The backend and application logic were fully developed by me.
+* This project was created for learning and practice purposes.
+
+---
+
+## 🤝 Contributing
+
+Feel free to fork the project and improve it. Any feedback or suggestions are welcome.
+
+---
+
+## 📄 License
+
+This project is open source and available under the **MIT License**.
+
+---
+
+# 🇹🇷 Türkçe
+
+Kullanıcının input kutusuna yazdığı şehrin güncel hava durumunu gösteren küçük bir web projesi geliştirdim.
+
+Arayüz tasarımı için **Bootstrap** CSS kütüphanesini kullandım. **Frontend tasarımı yapay zeka desteğiyle oluşturuldu**, **backend kısmı ve uygulama mantığı tamamen tarafımdan kodlandı**.
+
+🔗 **Canlı Demo:** https://weather-project-lac-ten.vercel.app/
+
+---
+
+## 🚀 Özellikler
+
+* Şehir adına göre hava durumu sorgulama
+* Basit ve responsive arayüz
+* Bootstrap tabanlı modern tasarım
+* EJS template engine kullanımı
+* Express.js backend yapısı
+* Kolay kurulum
+
+---
+
+## 🛠️ Kullanılan Teknolojiler
+
+* **Node.js**
+* **Express.js**
+* **EJS**
+* **Bootstrap**
+* **Nodemon**
+
+---
+
+## 📦 Kurulum
+
+Projeyi klonladıktan sonra gerekli paketleri yükleyin:
+
+```bash
+npm init -y
+npm install express ejs nodemon
+```
+
+---
+
+## ▶️ Projeyi Çalıştırma
+
+```bash
+npm run dev
+```
+
+Daha sonra tarayıcıdan şu adresi açın:
+
+```text
+http://localhost:3000
+```
+
+---
+
+## 📁 Proje Yapısı
+
+```text
+weather-project/
+├── public/
+│   └── css/
+├── routes/
+├── views/
+│   └── index.ejs
+├── app.js
+├── package.json
+└── README.md
+```
+
+---
+
+## 📌 Notlar
+
+* Frontend tasarımı yapay zeka desteğiyle oluşturulmuştur.
+* Backend kısmı ve uygulama mantığı tamamen tarafımdan geliştirilmiştir.
+* Bu proje öğrenme ve pratik amaçlı geliştirilmiştir.
+
+---
+
+## 🤝 Katkıda Bulunma
+
+Projeyi fork'layarak geliştirebilir, öneri ve geri bildirimlerinizi paylaşabilirsiniz.
+
+---
+
+## 📄 Lisans
+
+Bu proje **MIT Lisansı** altında açık kaynak olarak paylaşılmıştır.
